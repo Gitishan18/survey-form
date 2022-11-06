@@ -1,0 +1,41 @@
+#abc{
+    background-color: aqua;
+}
+.ac{
+    background-image: url(shutterstock_330097667.webp);
+    text-align: center;
+}
+#ff{
+    background-color: black;
+    color: whitesmoke;
+}
+#no{
+    color:red;
+}
+#kk{
+    background-color: chartreuse;
+}
+#to{
+    background-color:rgb(0, 255, 221);
+    color:red;
+    
+}
+.rt{
+    background-color:white;
+    color:rgb(212, 1, 245);
+}
+.g{
+    font-style:oblique;
+    color:white;
+}
+#koo{
+    background-color:rgb(32, 183, 32);
+}
+.center{
+  
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
